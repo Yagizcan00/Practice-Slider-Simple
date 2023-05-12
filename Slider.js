@@ -71,6 +71,3 @@ left.addEventListener("click", () => {
     slideNumber > 1 ? prevSlide() : getLastSlide()
     changeColor()
 })
-
-
-// asdasd
